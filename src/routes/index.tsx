@@ -303,10 +303,10 @@ function Index() {
           </p>
 
           <div className="mt-12 grid sm:grid-cols-3 gap-4 max-w-3xl mx-auto text-left">
-            <a href="mailto:hello@bytework.com" className="rounded-xl border border-white/10 bg-white/5 p-5 hover:bg-white/10 transition">
+            <a href="mailto:shammas.lodhi@brotherstartup.online" className="rounded-xl border border-white/10 bg-white/5 p-5 hover:bg-white/10 transition">
               <Mail className="h-5 w-5 text-accent" />
               <div className="mt-3 text-xs text-white/60">Email</div>
-              <div className="text-sm text-white font-medium mt-0.5">hello@bytework.com</div>
+              <div className="text-sm text-white font-medium mt-0.5">shammas.lodhi@brotherstartup.online</div>
             </a>
             <a href="tel:+10000000000" className="rounded-xl border border-white/10 bg-white/5 p-5 hover:bg-white/10 transition">
               <Phone className="h-5 w-5 text-accent" />
@@ -321,7 +321,7 @@ function Index() {
           </div>
 
           <a
-            href="mailto:hello@bytework.com"
+            href="mailto:shammas.lodhi@brotherstartup.online"
             className="mt-12 inline-flex items-center gap-2 rounded-lg bg-accent px-6 py-3.5 text-sm font-semibold text-accent-foreground hover:opacity-90 transition"
             style={{ boxShadow: "var(--shadow-glow)" }}
           >
