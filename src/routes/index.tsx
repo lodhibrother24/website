@@ -311,7 +311,7 @@ function Index() {
             <a href="tel:+10000000000" className="rounded-xl border border-white/10 bg-white/5 p-5 hover:bg-white/10 transition">
               <Phone className="h-5 w-5 text-accent" />
               <div className="mt-3 text-xs text-white/60">Phone</div>
-              <div className="text-sm text-white font-medium mt-0.5">+1 (000) 000-0000</div>
+              <div className="text-sm text-white font-medium mt-0.5">+92-336-3627493</div>
             </a>
             <div className="rounded-xl border border-white/10 bg-white/5 p-5">
               <MapPin className="h-5 w-5 text-accent" />
