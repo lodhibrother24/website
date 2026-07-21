@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import newLogo from "@C:\Users\shammas\Downloads\IT Services Technology\ChatGPT Image Jul 21, 2026, 01_28_13 PM.png";
+import newLogo from "@C:\Users\shammas\Downloads\IT Services Technology\src\assets\logo.png";
 import {
   Eye,
   Workflow,
