@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import newLogo from "@C:\Users\shammas\Downloads\IT Services Technology\src\assets\logo.png";
+import newLogo from "@/assets/logo.png";
 import {
   Eye,
   Workflow,
