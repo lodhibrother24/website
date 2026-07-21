@@ -106,7 +106,7 @@ function Index() {
       <header className="sticky top-0 z-50 backdrop-blur-md bg-background/80 border-b border-border">
         <div className="mx-auto max-w-7xl px-6 h-16 flex items-center justify-between">
           <a href="#top" className="flex items-center gap-2.5">
-            <img src={logoAsset.url} alt="Bytework" className="h-8 w-8 rounded-md" />
+            <img src={newLogo} alt="Bytework" className="h-8 w-8 rounded-md" />
             <span className="font-display font-semibold tracking-tight text-lg">bytework</span>
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm text-muted-foreground">
@@ -282,7 +282,7 @@ function Index() {
                     "radial-gradient(circle at 30% 30%, oklch(0.78 0.16 75 / 0.4), transparent 50%)",
                 }}
               />
-              <img src={logoAsset.url} alt="Bytework" className="relative h-40 w-40 opacity-95" />
+              <img src={newLogo} alt="Bytework" className="relative h-40 w-40 opacity-95" />
             </div>
             <div className="absolute -bottom-6 -left-6 rounded-2xl bg-card border border-border p-5 shadow-lg max-w-[220px]">
               <div className="font-display text-3xl font-bold text-primary">10+</div>
@@ -332,7 +332,7 @@ function Index() {
       <footer className="border-t border-border py-10">
         <div className="mx-auto max-w-7xl px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2.5">
-            <img src={logoAsset.url} alt="Bytework" className="h-6 w-6 rounded" />
+            <img src={newLogo} alt="Bytework" className="h-6 w-6 rounded" />
             <span className="font-display font-semibold text-sm">bytework</span>
             <span className="text-xs text-muted-foreground ml-2">IT services & consulting</span>
           </div>
