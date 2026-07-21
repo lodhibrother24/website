@@ -301,25 +301,23 @@ function Index() {
           <p className="mt-6 text-white/70 max-w-xl mx-auto">
             Tell us the problem. We'll come back with a plan, a team, and a timeline within 5 business days.
           </p>
-
-          <div className="mt-12 grid sm:grid-cols-3 gap-4 max-w-3xl mx-auto text-left">
-            <a href="mailto:shammas.lodhi@brotherstartup.online" className="rounded-xl border border-white/10 bg-white/5 p-5 hover:bg-white/10 transition">
-              <Mail className="h-5 w-5 text-accent" />
-              <div className="mt-3 text-xs text-white/60">Email</div>
-              <div className="text-sm text-white font-medium mt-0.5">shammas.lodhi@brotherstartup.online</div>
+            <div className="mt-12 grid sm:grid-cols-3 gap-6 max-w-5xl mx-auto text-left">
+            <a href="mailto:shammas.lodhi@brotherstartup.online" className="rounded-xl border border-white/10 bg-white/5 p-8 hover:bg-white/10 transition">
+              <Mail className="h-7 w-7 text-accent" />
+              <div className="mt-4 text-sm text-white/60">Email</div>
+              <div className="text-base text-white font-medium mt-1 break-words">shammas.lodhi@brotherstartup.online</div>
             </a>
-            <a href="tel:+10000000000" className="rounded-xl border border-white/10 bg-white/5 p-5 hover:bg-white/10 transition">
-              <Phone className="h-5 w-5 text-accent" />
-              <div className="mt-3 text-xs text-white/60">Phone</div>
-              <div className="text-sm text-white font-medium mt-0.5">+923363627493</div>
+            <a href="tel:+923363627493" className="rounded-xl border border-white/10 bg-white/5 p-8 hover:bg-white/10 transition">
+              <Phone className="h-7 w-7 text-accent" />
+              <div className="mt-4 text-sm text-white/60">Phone</div>
+              <div className="text-base text-white font-medium mt-1">+923363627493</div>
             </a>
-            <div className="rounded-xl border border-white/10 bg-white/5 p-5">
-              <MapPin className="h-5 w-5 text-accent" />
-              <div className="mt-3 text-xs text-white/60">Office</div>
-              <div className="text-sm text-white font-medium mt-0.5">Remote-first, global</div>
+            <div className="rounded-xl border border-white/10 bg-white/5 p-8">
+              <MapPin className="h-7 w-7 text-accent" />
+              <div className="mt-4 text-sm text-white/60">Office</div>
+              <div className="text-base text-white font-medium mt-1">Remote-first, global</div>
             </div>
           </div>
-
           <a
             href="mailto:shammas.lodhi@brotherstartup.online"
             className="mt-12 inline-flex items-center gap-2 rounded-lg bg-accent px-6 py-3.5 text-sm font-semibold text-accent-foreground hover:opacity-90 transition"
